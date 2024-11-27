@@ -250,6 +250,5 @@ app.get(
 export default {
   port: 3000,
   fetch: app.fetch,
-  host: "192.168.167.211",
   websocket,
 };
